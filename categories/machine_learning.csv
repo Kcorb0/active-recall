@@ -1,3 +1,0 @@
-id, question, answer, score
-1,How would you define Machine Learning?,Machine learning is the process of computersusing algorithms to make intelligent decisions and predictions based on data without being explicitly programmed.,0
-2,Can you name four types of problems where ML shines?,When a solution to a problem using a traditional approach uses a huge list of rules or needs a lot of fine tuning.:Complex problems where a traditional solution yields poor results. Machine learning techniques may provide better results.:Machine learning can adapt to incoming data in fluctuating environment.:Getting insights about complex problems and large amounts of data.,0
