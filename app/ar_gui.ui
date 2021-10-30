@@ -224,7 +224,7 @@
      <enum>QFrame::Plain</enum>
     </property>
     <property name="currentIndex">
-     <number>2</number>
+     <number>0</number>
     </property>
     <widget class="QWidget" name="new_game_page">
      <widget class="QLabel" name="start_lbl">
@@ -785,16 +785,6 @@ border: 1px solid rgb(191, 38, 38);</string>
       <item>
        <property name="text">
         <string/>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>wfwaf</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>wfwaf</string>
        </property>
       </item>
      </widget>
