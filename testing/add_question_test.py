@@ -4,7 +4,7 @@ import mysql.connector
 db_cnx = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Bombtrack36!",
+    password="",
     database="active_recall",
 )
 
