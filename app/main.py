@@ -76,7 +76,6 @@ class AppWindow(QMainWindow):
         
         category_title = self.cat_combo.currentText()
 
-
         # Generate Questions
         question_set = get_questions(category_title)
 
